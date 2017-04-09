@@ -1,0 +1,10 @@
+
+New Cloze Card: George Washington was the first president., Washington
+Partial text: George ... was the first president.
+Cloze-deletion: Washington
+New Cloze Card: Abe Lincoln was the 16th president., Lincoln
+Partial text: Abe ________ was the 16th president.
+Cloze-deletion: Lincoln
+New Cloze Card: JFK should have worn a helmet, helmet
+Partial text: JFK should have worn a ________
+Cloze-deletion: helmet
